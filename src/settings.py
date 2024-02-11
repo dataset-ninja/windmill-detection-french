@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Windmill Detection"
+PROJECT_NAME: str = "Windmill detection on french aerial"
 PROJECT_NAME_FULL: str = "Windmill Detection on French Aerial Images Dataset"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
@@ -36,7 +36,7 @@ HOMEPAGE_URL: str = (
 )
 # e.g. "https://some.com/dataset/homepage"
 
-PREVIEW_IMAGE_ID: int = None
+PREVIEW_IMAGE_ID: int = 13740336
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
 GITHUB_URL: str = "https://github.com/dataset-ninja/windmill-detection-french"
