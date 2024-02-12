@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Windmill Detection on French Aerial"
+PROJECT_NAME: str = "Windmill Detection on French Aerial Images"
 PROJECT_NAME_FULL: str = "Windmill Detection on French Aerial Images Dataset"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
